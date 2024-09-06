@@ -1,0 +1,30 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui;
+}
+
+section {
+  background-color: pink;
+  padding: 1cap;
+}
+
+/* put a selector here to select div elements (see index.html) */
+SELECTOR HERE {
+  font-family: cursive;
+  padding: 8px;
+
+  /* set the height and the width of the box to 150px */
+
+  /* make the background color "hotpink" */
+
+  /* make the text color "white" */
+
+  /* can you give the box round edges with an radius of 8px? */
+
+  /* ✨ feel free to experiment! */
+}
